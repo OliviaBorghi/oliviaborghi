@@ -21,7 +21,7 @@ repository               : "OliviaBorghi/oliviaborghi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Me.jpg"
   name             : "Olviia Borghi"
   pronouns         : "she/her"  
   bio              : "Homotopy theorist seeking a post-doctoral position"
