@@ -1,3 +1,13 @@
+---
+permalink: /cv/
+title: "CV"
+author_profile: true
+redirect_from: 
+  - /cv/
+  - /cv.html
+---
+
+
 Olivia Borghi
 +61 481 438 583 
 borghiolivia@gmail.com 
